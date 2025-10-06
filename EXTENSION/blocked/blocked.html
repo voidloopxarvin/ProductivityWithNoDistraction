@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Site Blocked - GoalLock</title>
+  <link rel="stylesheet" href="blocked.css">
+</head>
+<body>
+  <div class="blocked-container">
+    
+    <!-- Lock Icon -->
+    <div class="lock-animation">
+      <div class="lock-icon">🔒</div>
+      <div class="lock-glow"></div>
+    </div>
+
+    <!-- Main Message -->
+    <h1 class="blocked-title">Site Blocked</h1>
+    <p class="blocked-subtitle">Complete your daily goals to unlock access</p>
+
+    <!-- Blocked URL Display -->
+    <div class="blocked-url-card">
+      <span class="url-label">Trying to access:</span>
+      <span class="blocked-url" id="blockedUrl">Loading...</span>
+    </div>
+
+    <!-- Remaining Tasks -->
+    <div class="tasks-section">
+      <h2 class="tasks-title">📋 Remaining Goals (<span id="remainingCount">0</span>)</h2>
+      <div class="tasks-list" id="tasksList">
+        <!-- Tasks will be loaded here -->
+      </div>
+    </div>
+
+    <!-- Motivation Message -->
+    <div class="motivation-card">
+      <div class="motivation-icon">💪</div>
+      <p class="motivation-text" id="motivationText">Stay focused! Complete your goals first.</p>
+    </div>
+
+    <!-- Quick Actions -->
+    <div class="actions">
+      <button id="openPopupBtn" class="btn-primary">
+        ✅ Complete Goals
+      </button>
+      <button id="goBackBtn" class="btn-secondary">
+        ← Go Back
+      </button>
+    </div>
+
+    <!-- Progress Bar -->
+    <div class="progress-bar-container">
+      <div class="progress-bar" id="progressBar"></div>
+      <span class="progress-text" id="progressText">0% Complete</span>
+    </div>
+
+    <!-- Footer -->
+    <div class="blocked-footer">
+      <p>GoalLock is helping you stay focused 🎯</p>
+    </div>
+
+  </div>
+
+  <script src="blocked.js"></script>
+</body>
+</html>

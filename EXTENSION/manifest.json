@@ -1,0 +1,47 @@
+{
+  "manifest_version": 3,
+  "name": "PrepLock - Study Focus Extension",
+  "version": "2.0.0",
+  "description": "Sync your study roadmap, track progress, and block distractions. Connect with PrepLock web app.",
+  
+  "permissions": [
+    "storage",
+    "tabs",
+    "declarativeNetRequest",
+    "alarms",
+    "notifications"
+  ],
+  
+  "host_permissions": [
+    "http://localhost:5000/*",
+    "<all_urls>"
+  ],
+  
+  "background": {
+    "service_worker": "background.js"
+  },
+  
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "assets/icons/icon16.png",
+      "48": "assets/icons/icon48.png",
+      "128": "assets/icons/icon128.png"
+    }
+  },
+  
+  "options_page": "options/options.html",
+  
+  "icons": {
+    "16": "assets/icons/icon16.png",
+    "48": "assets/icons/icon48.png",
+    "128": "assets/icons/icon128.png"
+  },
+  
+  "web_accessible_resources": [
+    {
+      "resources": ["blocked/blocked.html"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
