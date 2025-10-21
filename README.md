@@ -44,6 +44,7 @@ PrepLock is built on the **PREP** philosophy - a holistic approach to productivi
 
 ## 📁 Project Structure
 
+```
 ProductivityWithNoDistraction/
 │
 ├── 📱 CLIENT/                      # Web Dashboard
@@ -73,6 +74,7 @@ ProductivityWithNoDistraction/
     ├── 📊 models/
     ├── 🛣️ routes/
     └── 🚀 server.js
+```
 
 
 ### 🗂️ Folder Descriptions
