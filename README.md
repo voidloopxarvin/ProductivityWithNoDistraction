@@ -184,30 +184,41 @@ ProductivityWithNoDistraction/
 > **📁 Create `/screenshots` folder in root directory**
 
 ### Web Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard] <img width="1326" height="1077" alt="image" src="https://github.com/user-attachments/assets/d65bdc81-b8eb-48a7-ac71-450df3668a82" />
+
 *Task management with PREP framework visualization*
 
 ### Chrome Extension
-![Extension](./screenshots/extension-popup.png)
+![Extension] <img width="882" height="849" alt="image" src="https://github.com/user-attachments/assets/8522480e-975e-47e8-9daf-48043c394797" />
+<img width="783" height="854" alt="image" src="https://github.com/user-attachments/assets/5433db4b-3118-48aa-bfea-c0bced9a8015" />
+
 *Quick access popup with task status*
 
-![Blocked Page](./screenshots/blocked-page.png)
+![Blocked Page] <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/1909ef35-14ad-44dc-84fa-6e56ceac834e" />
+
 *Custom blocked website redirect page*
 
 ### Mobile App
 <div align="center">
-<img src="./screenshots/mobile-home.png" width="250" alt="Mobile Home"/>
-<img src="./screenshots/mobile-tasks.png" width="250" alt="Task List"/>
-<img src="./screenshots/mobile-ai.png" width="250" alt="AI Tools"/>
+    ![finalll](https://github.com/user-attachments/assets/94f18b55-4395-4dee-adf4-fd8446fa3a88)
+
+![blocki](https://github.com/user-attachments/assets/af6bffc1-c159-4cae-bf92-c37dbdc09e18)
+
+![syllab](https://github.com/user-attachments/assets/a4496168-77d1-4373-90b7-f8d2b9d849e7)
 </div>
 
 *Mobile app screens: Home, Tasks, and AI Tools*
 
 ### AI Features
-![AI Flashcards](./screenshots/ai-flashcards.png)
+![AI Flashcards]<img width="1537" height="1094" alt="image" src="https://github.com/user-attachments/assets/b340394c-4096-40e1-9e25-35e856863a3a" />
+
 *Auto-generated flashcards from PDF upload*
 
-![Study Roadmap](./screenshots/study-roadmap.png)
+![Study Roadmap]
+<img width="1172" height="1072" alt="image" src="https://github.com/user-attachments/assets/2733f32a-0a7a-426b-b768-2387022614fd" />
+
+<img width="1645" height="1094" alt="image" src="https://github.com/user-attachments/assets/b5d5bf37-18cf-4652-a865-38abb3188c20" />
+
 *Mermaid diagram learning roadmap*
 
 ---
