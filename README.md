@@ -181,45 +181,44 @@ ProductivityWithNoDistraction/
 
 ## 📸 Screenshots
 
-> **📁 Create `/screenshots` folder in root directory**
-
-### Web Dashboard
-![Dashboard] <img width="1326" height="1077" alt="image" src="https://github.com/user-attachments/assets/d65bdc81-b8eb-48a7-ac71-450df3668a82" />
-
-*Task management with PREP framework visualization*
-
-### Chrome Extension
-![Extension] <img width="882" height="849" alt="image" src="https://github.com/user-attachments/assets/8522480e-975e-47e8-9daf-48043c394797" />
-<img width="783" height="854" alt="image" src="https://github.com/user-attachments/assets/5433db4b-3118-48aa-bfea-c0bced9a8015" />
-
-*Quick access popup with task status*
-
-![Blocked Page] <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/1909ef35-14ad-44dc-84fa-6e56ceac834e" />
-
-*Custom blocked website redirect page*
-
-### Mobile App
-<div align="center">
-    ![finalll](https://github.com/user-attachments/assets/94f18b55-4395-4dee-adf4-fd8446fa3a88)
-
-![blocki](https://github.com/user-attachments/assets/af6bffc1-c159-4cae-bf92-c37dbdc09e18)
-
-![syllab](https://github.com/user-attachments/assets/a4496168-77d1-4373-90b7-f8d2b9d849e7)
-</div>
-
-*Mobile app screens: Home, Tasks, and AI Tools*
-
-### AI Features
-![AI Flashcards]<img width="1537" height="1094" alt="image" src="https://github.com/user-attachments/assets/b340394c-4096-40e1-9e25-35e856863a3a" />
-
-*Auto-generated flashcards from PDF upload*
-
-![Study Roadmap]
-<img width="1172" height="1072" alt="image" src="https://github.com/user-attachments/assets/2733f32a-0a7a-426b-b768-2387022614fd" />
-
-<img width="1645" height="1094" alt="image" src="https://github.com/user-attachments/assets/b5d5bf37-18cf-4652-a865-38abb3188c20" />
-
-*Mermaid diagram learning roadmap*
+> **📁 Create `/screenshots` folder in the root directory**
 
 ---
 
+### 🖥️ Web Dashboard
+<img width="1326" height="1077" alt="Web Dashboard with Roadmap" src="https://github.com/user-attachments/assets/d65bdc81-b8eb-48a7-ac71-450df3668a82" />
+
+*Task management dashboard with visual study roadmap*
+
+---
+
+### 🔌 Chrome Extension
+<img width="882" height="849" alt="Extension Login" src="https://github.com/user-attachments/assets/8522480e-975e-47e8-9daf-48043c394797" />
+<img width="783" height="854" alt="Extension Main Screen" src="https://github.com/user-attachments/assets/5433db4b-3118-48aa-bfea-c0bced9a8015" />
+<img width="1919" height="1199" alt="Blocked Website Page" src="https://github.com/user-attachments/assets/1909ef35-14ad-44dc-84fa-6e56ceac834e" />
+
+*Chrome extension with login, task tracker, and site blocker functionality*
+
+---
+
+### 📱 Mobile App
+<div align="center">
+    <img width="400" height="850" alt="Mobile Dashboard" src="https://github.com/user-attachments/assets/94f18b55-4395-4dee-adf4-fd8446fa3a88" />
+    <img width="400" height="850" alt="Mobile Blocker Screen" src="https://github.com/user-attachments/assets/af6bffc1-c159-4cae-bf92-c37dbdc09e18" />
+</div>
+
+*Mobile dashboard and distraction blocker screens*
+
+---
+
+### 🤖 AI Features
+<img width="1537" height="1094" alt="AI Flashcards" src="https://github.com/user-attachments/assets/b340394c-4096-40e1-9e25-35e856863a3a" />
+
+*Auto-generated flashcards from PDFs and notes*
+
+<img width="1172" height="1072" alt="AI Study Roadmap" src="https://github.com/user-attachments/assets/2733f32a-0a7a-426b-b768-2387022614fd" />
+<img width="1645" height="1094" alt="AI Mock Tests" src="https://github.com/user-attachments/assets/b5d5bf37-18cf-4652-a865-38abb3188c20" />
+
+*Personalized AI roadmap and mock test generation tools*
+
+---
