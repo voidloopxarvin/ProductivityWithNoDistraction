@@ -46,70 +46,33 @@ PrepLock is built on the **PREP** philosophy - a holistic approach to productivi
 
 ProductivityWithNoDistraction/
 │
-├── 📂 CLIENT/ (Web Dashboard - React.js)
-│ ├── node_modules/
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── utils/
-│ │ ├── App.js
-│ │ └── index.js
-│ ├── .env
-│ ├── .gitignore
-│ ├── package.json
-│ └── package-lock.json
+├── 📱 CLIENT/                      # Web Dashboard
+│   ├── 📂 src/
+│   │   ├── 🧩 components/
+│   │   ├── 📄 pages/
+│   │   └── 🛠️ utils/
+│   └── 📦 package.json
 │
-├── 📂 EXTENSION/ (Chrome Extension)
-│ ├── .git/
-│ ├── blocked/
-│ ├── options/
-│ ├── popup/
-│ ├── utils/
-│ ├── background.js
-│ ├── manifest.json
-│ ├── package-lock.json
-│ └── productivity.png
+├── 🔌 EXTENSION/                   # Chrome Extension
+│   ├── 🚫 blocked/
+│   ├── 🎨 popup/
+│   ├── ⚙️ background.js
+│   └── 📋 manifest.json
 │
-├── 📂 MOBILE/ (React Native App)
-│ ├── tests/
-│ ├── android/
-│ ├── bundle/
-│ ├── components/
-│ ├── ios/
-│ ├── node_modules/
-│ ├── screens/
-│ ├── src/
-│ │ ├── config/
-│ │ ├── navigation/
-│ │ └── services/
-│ ├── .eslintrc.js
-│ ├── .prettierrc.js
-│ ├── app.json
-│ ├── App.tsx
-│ ├── babel.config.js
-│ ├── Gemfile
-│ ├── index.js
-│ ├── jest.config.js
-│ ├── metro.config.js
-│ ├── package.json
-│ └── package-lock.json
+├── 📱 MOBILE/                      # React Native App
+│   ├── 🤖 android/
+│   ├── 🍎 ios/
+│   ├── 📂 src/
+│   │   ├── ⚙️ config/
+│   │   ├── 🧭 navigation/
+│   │   └── 🔗 services/
+│   └── 📱 App.tsx
 │
-├── 📂 SERVER/ (Backend - Node.js + Express)
-│ ├── Controllers/
-│ ├── middlewares/
-│ ├── models/
-│ ├── node_modules/
-│ ├── routes/
-│ ├── services/
-│ ├── utils/
-│ ├── .env
-│ ├── package.json
-│ ├── package-lock.json
-│ └── server.js
-│
-├── 📄 README.md
-└── 📄 .gitignore
+└── 🖥️ SERVER/                      # Backend API
+    ├── 🎮 Controllers/
+    ├── 📊 models/
+    ├── 🛣️ routes/
+    └── 🚀 server.js
 
 
 ### 🗂️ Folder Descriptions
